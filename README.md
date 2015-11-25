@@ -1,4 +1,4 @@
-# VARsignsR
+# VARsignR
 Estimating VARs using sign restrictions in R
 
 VERSION NOV 15 2015
