@@ -1,9 +1,6 @@
 # VARsignsR
 Estimating VARs using sign restrictions in R
 
-# VARsignsR
-Estimating VARs using sign restrictions in R
- 
 VERSION NOV 15 2015
 CHRISTIAN DANNE
 DANNEC@TCD.IE
