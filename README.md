@@ -1,8 +1,10 @@
 #VARsignR
 Estimating VARs using sign restrictions in R
 
-Version Nov 15 2015
+Version Nov 27 2015
+
 Christian Danne
+
 dannec@tcd.ie
 
 ###DESCRIPTION 
@@ -24,6 +26,8 @@ I would like to thank Tom Doan, Chris Sims, and Tao Zha for making their program
  **example.R:** example code demonstrating the use of the models and potting the results. 
 
  **fnimpulse.R:** creates impulse responses from the estimated reduced form VAR. 
+
+  **manual.txt:** additional information on the use of the routines. 
 
  **plotfunc.R:** contains functions for plotting the impulse responses and saving the plots.
 
