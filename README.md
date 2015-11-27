@@ -22,14 +22,23 @@ I would like to thank Tom Doan, Chris Sims, and Tao Zha for making their program
 
 ##CONTENTS##
  **example.R:** example code demonstrating the use of the models and potting the results. 
+
  **fnimpulse.R:** creates impulse responses from the estimated reduced form VAR. 
+
  **plotfunc.R:** contains functions for plotting the impulse responses and saving the plots.
+
  **rfvar.R:** estimates a standard reduced for VAR via OLS. Code is based on Chris Sims' R codes.
+
  **signfuncs.R:** contains most of the functions employing the sign restrictions. Functions largely are based on Tom Doan's RATS codes and Tao Zha's MATLAB codes. 
+
  **uhligdata.RData:** Monthly macroeconomic time series used in Uhlig (2005).
+
  **uhlig1.R:** standard BVAR with a flat wishart prior. 
+
  **uhlig2.R:** identifies structural VAR shocks using Uhlig's rejection method.
+
  **uhlig3.R:** identifies structural VAR shocks using Uhlig's penalty function approach. 
+ 
  **rwz.R:** identifies stuctural VAR shocks using the Rubio et al.'s algorithm. 
  
 
