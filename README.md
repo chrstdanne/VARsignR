@@ -8,7 +8,7 @@ Version: Dec 18 2015
 ###Description
 This toolbox provides a set of functions for identifying structural shocks in Vector Autoregressions (VARs) using sign restrictions. Currently, it implements Uhlig's (2005) rejection method, Uhlig's (2005) penalty function approach, Rubio-Ramirez et al's (2010) QR-based rejection algorithm, and Fry and Pagan's (2011) median target method. Inference is Bayesian using a flat Normal-Wishart prior.  
 
-For more information on the three methods, please check the accompanying vignette and  
+For more information on the three methods, please check the accompanying [vignette](https://ideas.repec.org/p/pra/mprapa/68429.html) and  
 
 Fry, R. and Pagan, A. (2011), "Sign restrictions in structural vector autoregressions: A critical review", *Journal of Economic Literature*, 49, 938-960.
 
